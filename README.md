@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey, welcome 👋
 
-:mortar_board: Currently, I am a PostDoc in the [LIT lab at University of Michigan](https://lit.eecs.umich.edu/), where I also completed my Ph.D. in Computer Science in August 2022.  
+:mortar_board: I am a PostDoc in the [LIT lab at University of Michigan](https://lit.eecs.umich.edu/), where I also completed my Ph.D. in Computer Science in August 2022.  
 
 👯 I'm looking to colaborate on AI4Good :heart: applications, applying research in the real-world applications.
 
@@ -14,7 +14,7 @@ My main research projects have been on:
 
 🔭 I've worked as a Research Intern at Meta (FAIR) and Amazon (Prime Video).
 
-:moneybag: I am looking to become a tenure-track CS professor in the fall of 2024. 
+:moneybag: I will apply for tenure-track CS Professor jobs in the near future.
 
-📫 How to reach me: email me at oignat@umich.edu
+📫 How to reach me: oignat@umich.edu
 
