@@ -4,8 +4,8 @@
 
 👯 I'm looking to colaborate on AI4Good :heart: applications, applying research in the real-world applications.
 
-💬 My research lies mainly at the intersection of **Computer Vision and Natural Language Processing**,
-I develop **Machine Learning models and Datasets** for **Human Action Understanding** and many other projects.
+💬 My research lies mainly at the intersection of **Computer Vision and Natural Language Processing**.
+I build **Machine Learning models and Datasets** for **Human Action Understanding** and many other projects.
 
 My main research projects have been on: 
 - :nail_care: Human Action Understanding
