@@ -1,6 +1,8 @@
 ### Hey, welcome 👋
 
-:mortar_board: I am a PostDoc in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/), where I also completed my Ph.D. in Computer Science in August 2022.  
+:woman_teacher: I will join [Santa Clara University CSE](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) as an Assistant Professor in September 2024! Looking for determined students looking to learn and grow!
+
+:mortar_board: I am currently a PostDoc in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/), where I also completed my Ph.D. in Computer Science in August 2022.  
 
 👯 I'm looking to collaborate on AI4Good :heart:, applying research to real-world settings.
 
@@ -13,7 +15,5 @@ My main research projects have been on:
 - :mag_right: Analysing OCR performance on Low-resource Languages for improving MT performance
 
 🔭 I've worked as a Research Intern at Meta (FAIR; x2) and Amazon (Prime Video).
-
-:woman_teacher: I will join Santa Clara University as an Assistant Professor in September 2024! Looking for determined students looking to learn and grow!
 
 📫 Feel free to contact me! oignat@umich.edu
