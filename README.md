@@ -14,6 +14,6 @@ My main research projects have been on:
 
 🔭 I've worked as a Research Intern at Meta (FAIR; x2) and Amazon (Prime Video).
 
-:woman_teacher: I'm currently applying for tenure-track CS Professor jobs.
+:woman_teacher: I will join Santa Clara University as an Assistant Professor in September 2024! Looking for determined students looking to learn and grow!
 
 📫 Feel free to contact me! oignat@umich.edu
