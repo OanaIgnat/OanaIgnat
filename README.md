@@ -1,8 +1,8 @@
 ### Hey, welcome 👋
 
-:woman_teacher: I will join [Santa Clara University CSE](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) as an Assistant Professor in September 2024! I'm looking for nice, curious, and determined students, who are motivated to learn, grow, and make the world better! Apply [here](https://forms.gle/2rUHtRhejs2RkYht7).
+:woman_teacher: I am an Assistant Professor at [Santa Clara University CSE](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/)
 
-:mortar_board: I am currently a PostDoc in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/), where I also completed my Ph.D. in Computer Science in August 2022.  
+:mortar_board: I was a PostDoc in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/), where I also completed my Ph.D. in Computer Science in August 2022.  
 
 👯 I'm looking to collaborate on AI4Good :heart:, applying research to real-world settings.
 
