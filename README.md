@@ -16,4 +16,4 @@ My main research projects have been on:
 
 🔭 I've worked as a Research Intern at Meta (FAIR; x2) and Amazon (Prime Video).
 
-📫 Feel free to contact me! oignat@umich.edu
+📫 Feel free to contact me! oignat@scu.edu
