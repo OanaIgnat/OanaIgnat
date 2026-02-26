@@ -2,7 +2,7 @@
 
 :woman_teacher: I am a Tenure-Track Assistant Professor at [Santa Clara University CSE](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/).
 
-:mortar_board: I was a PostDoc in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/), where I also completed my Ph.D. in Computer Science in August 2022.
+:mortar_board: I completed my Ph.D. in Computer Science in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/) in August 2022.
 
 🔭 I've worked as a Research Intern at Meta (FAIR; x2) and Amazon (Prime Video).
 
