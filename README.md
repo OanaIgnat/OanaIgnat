@@ -8,7 +8,7 @@
 
 :mortar_board: I completed my Ph.D. in Computer Science in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/) in August 2022.
 
-🔭 I've worked as a Research Intern at Meta (FAIR; x2) and Amazon (Prime Video).
+🔭 I've worked in AI research at Meta (FAIR; x2), Amazon (Prime Video), Bosch, and Telenav (road detection algorithms for self-driving cars).
 
 💬 My research focus is on **Multimodal Equitable AI**. Publications and code can be found on [Google Scholar](https://scholar.google.com/citations?user=RzK4fWkAAAAJ)
 
