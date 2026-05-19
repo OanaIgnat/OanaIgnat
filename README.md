@@ -6,7 +6,7 @@
 
 🎙️ Co-host and organizer of the [ACL Mentorship](https://mentorship.aclweb.org/) global panels with mentors from academia and industry, recorded and open to everyone.
 
-:mortar_board: I completed my Ph.D. in Computer Science in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/) in August 2022.
+:mortar_board: I completed my Ph.D. and Postdoc in Computer Science in the [LIT lab at the University of Michigan](https://lit.eecs.umich.edu/) in August 2022.
 
 🔭 I've worked in AI research at Meta (FAIR; x2), Amazon (Prime Video), Bosch, and Telenav (Open Street Map and algorithms for self-driving cars).
 
